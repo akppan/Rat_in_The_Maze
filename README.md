@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### About the Project
+This is a project to depict the paths the rat in the maze can take. You can search path for square grid of any size. Try to trap the rat by clicking on the grid blocks. The blocks where mouse can travel will appear green, The blocks where mouse can't travel will appear red. The paths will appear in blue color.
